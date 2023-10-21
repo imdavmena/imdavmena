@@ -1,16 +1,31 @@
-### Hi there 👋
+# David Medina Mena
 
-<!--
-**imdavmena/imdavmena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Portafolio
+- CAMSoft
+  
+https://camsoft.com.do
 
-Here are some ideas to get you started:
+- Iban Online
+  
+https://www.ibanonline.com.do
+https://www.ibanonline.com.mx
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Azadeh Kadivar
+  
+https://azadehkadivar.com
+
+- Ministerio de hacienda
+  
+https://www.hacienda.gob.do
+
+- Curbo
+  
+https://curbo.do
+
+- Dlcars
+  
+https://www.dlcars.com.do
+
+- AllVisas
+  
+https://allvisas.co
