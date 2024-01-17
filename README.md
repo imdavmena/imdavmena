@@ -29,3 +29,7 @@ https://www.dlcars.com.do
 - AllVisas
   
 https://allvisas.co
+
+- Oficina Virtual Registro Inmobiliario
+  
+https://servicios.ri.gob.do/OficinaVirtualRT
