@@ -33,3 +33,7 @@ https://allvisas.co
 - Oficina Virtual Registro Inmobiliario
   
 https://servicios.ri.gob.do/OficinaVirtualRT
+
+- Smarty Had a party
+  
+https://smartyhadaparty.com
